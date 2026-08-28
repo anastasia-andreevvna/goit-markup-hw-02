@@ -15,10 +15,6 @@
     background-color: #ffffff;
 }
 
-.team-image {
-    display: block;
-}
-
 .team > .container > ul .team-title {
     font-weight: 500;
     font-size: 20px;
