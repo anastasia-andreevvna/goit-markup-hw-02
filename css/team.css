@@ -13,12 +13,10 @@
 
 .team > .container > ul > li {
     background-color: #ffffff;
-    max-width: 100%;
 }
 
 .team-image {
-    width: 264px;
-    height: 260px;
+    display: block;
 }
 
 .team > .container > ul .team-title {
@@ -35,4 +33,5 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #434455;
 }

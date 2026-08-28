@@ -1,17 +1,17 @@
 .header-logo, .footer-logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.33;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
 .header-logo {
-    color: #2E2F42;
+    color: #4d5ae5;
 }
 
 .header-logo .accent {
-    color: #4D5AE5;
+    color: #2e2f42;
 }
 
 .header-nav-link {
@@ -20,6 +20,11 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.header-nav-link:hover,
+.header-nav-link:focus {
+    color: #404bbf;
 }
 
 .header-contacts {
@@ -31,4 +36,9 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.header-contacts-link:hover,
+.header-contacts-link:focus {
+    color: #404bbf;
 }
